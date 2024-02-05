@@ -3,5 +3,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=4081F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=40&lines=Graduation+project%2C+please+do+not+download+%F0%9F%98%98)](https://git.io/typing-svg)
 
 [![my github activity graph✨](https://github-readme-activity-graph.vercel.app/graph?username=youkei-zzz&theme=github)](https://github.com/youkei-zzz/github-readme-activity-graph)
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/utour-love/utour/assets/github-snake/github-contribution-grid-snake.svg" ></div>
